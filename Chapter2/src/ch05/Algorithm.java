@@ -1,4 +1,4 @@
-package ch01;
+package ch05;
 
 public class Algorithm {
 	
@@ -22,7 +22,9 @@ public class Algorithm {
        
 */
 	
-	
+	public static void main(String[] args) {
+		
+	}
 	
 	
 }
