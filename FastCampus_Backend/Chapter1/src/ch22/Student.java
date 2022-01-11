@@ -1,7 +1,6 @@
 package ch22;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class Student {
 
