@@ -27,7 +27,6 @@ public class Settings {
     return settings; // 아니라면 그냥 변수 그대로 리턴		
   }
 
-  
   private boolean darkMode = false;
   private int fontSize = 13;
 
