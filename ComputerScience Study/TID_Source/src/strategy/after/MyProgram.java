@@ -1,6 +1,7 @@
 package strategy.after;
 
 public class MyProgram {
+	
   private SearchButton searchButton = new SearchButton(this);
 
   public void setModeAll () { 
@@ -25,4 +26,5 @@ public class MyProgram {
     setModeMap();             // 지도검색 모드로
     searchButton.onClick();   // "SEARCH MAP" 출력
   }
+  
 }
