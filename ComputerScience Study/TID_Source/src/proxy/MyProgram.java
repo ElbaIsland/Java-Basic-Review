@@ -7,6 +7,7 @@ import java.util.ArrayList;
 // 가벼운 기능은 프록시가, 정말 필요한 무거운 일에만 실체 클래스가 일한다.
 
 // ex) 유투브의 마우스 오버시 제목을 가져오고 / 프리뷰 재생 기능
+// 제목을 가져오는 경우는 프록시로 / 프리뷰를 재생하는건 실체 클래스를 통해 일한다.
 
 public class MyProgram {
   public static void main(String[] args) {
