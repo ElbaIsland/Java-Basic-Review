@@ -1,4 +1,4 @@
-package Chapter1.ch22;
+package chapter1.ch22;
 
 public class ArrayTest {
 

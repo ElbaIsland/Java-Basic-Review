@@ -1,4 +1,4 @@
-package Chapter1.ch04;
+package chapter1.ch04;
 
 public class CustomerTest2 {
 

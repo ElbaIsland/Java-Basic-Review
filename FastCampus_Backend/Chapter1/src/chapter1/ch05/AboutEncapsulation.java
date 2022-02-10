@@ -1,4 +1,4 @@
-package Chapter1.ch05;
+package chapter1.ch05;
 
 public class AboutEncapsulation {
 

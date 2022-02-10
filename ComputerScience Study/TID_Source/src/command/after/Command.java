@@ -1,4 +1,4 @@
-package command.after;
+	package command.after;
 
 // 추상 클래스
 // 스스로는 객체를 생성해서 활동하지 못하지만, 
